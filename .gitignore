@@ -1,0 +1,9 @@
+# Unreal Engine folders to ignore
+Binaries/
+Saved/
+Intermediate/
+DerivedDataCache/
+
+# Ignore system-specific files
+Thumbs.db
+.DS_Store
